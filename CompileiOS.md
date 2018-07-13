@@ -1,4 +1,8 @@
-# Compile 
+# Compile for iOS
+
+## Leptonica
+## Tesseact
+## OpenCV
 
 1. Download the source code
 
