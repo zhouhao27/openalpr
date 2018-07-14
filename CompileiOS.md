@@ -40,4 +40,4 @@ I copy all files under opencv2.framework/Headers to opencv2.framework/Headers/op
 
 ## References 
 
-[Build universal library](https://www.raywenderlich.com/41377/creating-a-static-library-in-ios-tutorial)
+[Build iOS universal library](https://agilewarrior.wordpress.com/2016/12/22/how-to-create-universal-static-library-ios/)
