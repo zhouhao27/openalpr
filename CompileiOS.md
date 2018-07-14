@@ -36,3 +36,8 @@ Regarding with the compiling of the dependent libraris like opencv2.framework, l
 
 Got a compile error for "Can't find opencv2/*.hpp". 
 I copy all files under opencv2.framework/Headers to opencv2.framework/Headers/opencv2. 
+
+
+## References 
+
+[Build universal library](https://www.raywenderlich.com/41377/creating-a-static-library-in-ios-tutorial)
